@@ -1,9 +1,12 @@
 {
-  "name": "nofetch",
+  "name": "@rebs/nofetch",
   "version": "0.0.1",
   "description": "not only fetch",
   "main": "index.ts",
-  "repository url": "https://github.com/reb1s1/nofetch",
   "author": "reb1s1 <iherewithmyheart@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository url": "https://github.com/reb1s1/nofetch.git"
 }
