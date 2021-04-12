@@ -1,0 +1,9 @@
+{
+  "name": "nofetch",
+  "version": "1.0.0",
+  "description": "not only fetch",
+  "main": "index.ts",
+  "repository url": "https://github.com/reb1s1/nofetch",
+  "author": "reb1s1 <iherewithmyheart@gmail.com>",
+  "license": "MIT"
+}
