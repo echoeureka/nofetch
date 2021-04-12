@@ -1,6 +1,6 @@
 {
   "name": "nofetch",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "not only fetch",
   "main": "index.ts",
   "repository url": "https://github.com/reb1s1/nofetch",
